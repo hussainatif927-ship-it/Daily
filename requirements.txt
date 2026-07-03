@@ -1,0 +1,5 @@
+ccxt==4.2.100
+pandas>=2.2.2
+https://github.com/twopirllc/pandas-ta/archive/refs/heads/development.zip
+requests==2.31.0
+pytz==2024.1
